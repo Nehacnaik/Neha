@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Cental Park</title>
+
+    </head>
+    <body>
+        <header>
+            <h1><strong>Share your travels</strong></h1>
+            <h2>New York-Central Park</h2>
+                <nav>
+                    <ul>
+                        <li><a href="">Description</a></li>
+                        <li><a href="">Related Photos</a></li>
+                        <li><a href="">Reviews</a></li>
+                    </ul>
+                </nav>
+        </header>
+        <section>
+            <h3>Descricption</h3>
+            <p>Photo By Neha</p>
+            <p>This photo of Conservatory Park in <u>New York City</u> was taken on <em>October 23,2011</em> with a Canon EOS 900 camera.</p>
+            <figure>
+                <img src="download.jpg" alt="central park New York" width="350" height="350">
+                <p>Conservatory park</p>
+            </figure>
+        </section>
+        <section>
+        <h4>Share:</h4>
+        <h3>Related Photos</h3>
+        <img src="park.jpg" alt="park"  width="150" height="150">
+        <img src="park1.jpg" alt="park"  width="150" height="150">
+        <img src="park2.jpg" alt="park"  width="150" height="150">
+
+        <h3>Reviews</h3>
+        <p>By Ricardo on September 15,2015</p>
+        <p>I love Central park</p>
+    </section>
+        <footer>
+            <p><a href="">Home</a> |
+                <a href="">Browse</a> |
+                <a href="">Search</a>
+            </p>
+            <p>Copyright&copy;2021</p>
+        </footer>
+    </body>
+</html>
