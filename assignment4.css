@@ -1,37 +1,42 @@
-* { margin: 0; padding: 0; }
-html { height: 100%; }
-body { background: #f2f2f2; 
+* { margin: auto; padding: 0%; }
+html { height: 100%;width: fit-content; }
+body { background: #d32ab718; 
     font-size: 62.5%;
      padding-bottom: 65px; 
     }
 h1 { font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif; 
-    color: #454545;
      font-size: 3.6em;
       margin-bottom: 6px;
      }
 h2 { font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif; 
-    color: #484848;
      font-size: 2.5em;
       margin-bottom: 10px;
        text-decoration: underline;
      }
 h3 { font-family: "Trebuchet MS", Verdana, Arial, sans-serif; 
-    color: #777;
      font-weight: normal; 
      font-size: 1.8em;
       margin-bottom: 10px;
      }
 h4 { font-family: "Trebuchet MS", Verdana, Arial, sans-serif; 
-    color: #656565;
-     font-weight: bold; 
+     font-weight: normal; 
      font-size: 1.75em;
       margin-bottom: 4px;
      }
 
-p { font-family: "Balthazar", "Droid Serif", serif; color: #565656; font-size: 1.8em; line-height: 1.4em; margin-bottom: 15px; padding-left: 35px; }
-small { font-family: "Balthazar", "Droid Serif", serif; color: #656565; font-size: 1.6em; display: block; margin-bottom: 6px; }
-ul { display: block; list-style: none; }
-ul li { padding-left: 45px; list-style-type: none; vertical-align: top; background: url('images/bullet.png') 25px 5px no-repeat; margin-bottom: 5px; font-family: "Balthazar", "Droid Serif", serif; color: #666; font-size: 1.6em; line-height: 2.3em; }
+p { font-family: "Balthazar", "Droid Serif", serif; 
+    font-size: 1.8em;
+     line-height: 1.4em;
+     margin-bottom: 15px;
+     padding-left: 35px; }
+ul li { padding-left: 45px; 
+    list-style-type: none;
+     vertical-align: top;
+      background: url('images/bullet.png') 25px 5px no-repeat;
+       margin-bottom: 5px; 
+       font-family: "Balthazar", "Droid Serif", serif; 
+        font-size: 1.6em; 
+        line-height: 2.3em; }
 
 img { border: 0; max-width: 100%; }
 #w { margin: 0px 50px;
@@ -42,10 +47,6 @@ img { border: 0; max-width: 100%; }
      max-width: 900px; 
      border-bottom-right-radius: 8px;
      border-bottom-left-radius: 8px;
-    -webkit-border-bottom-left-radius: 8px;
-    -webkit-border-bottom-right-radius: 8px;
-    -moz-border-radius-bottomleft: 8px;
-    -moz-border-radius-bottomright: 8px;
      }
 
 header { width: 100%; }
